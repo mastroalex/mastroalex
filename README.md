@@ -48,4 +48,6 @@
   <br/>
   
   I am a Biomedical Engineer. 
+  
+  I'm from Rome, Italy.
 </details>  
