@@ -20,7 +20,8 @@
 [<img align="left" alt="Tex" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/TeXShop_icon.png" />](https://alessandromastrofini.it/)
 [<img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/788px-Adobe_Illustrator_CC_icon.svg.png" />](https://alessandromastrofini.it/)
 [<img align="left" alt="Electromagnetic CAE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/AntennaPod_logo.png" />](https://alessandromastrofini.it/)
-
+[<img align="left" alt="Electronic" width="26px" src="https://play-lh.googleusercontent.com/PaDArLHTXyLBbx2S_bK955DkfNry407XmB9zm6by-7NEmmNfQFiM9VxMFeBlVLCm4LY" />](https://alessandromastrofini.it/category/elettronica/)
+[<img align="left" alt="DYI" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/3414677/power-drill-clipart-md.png" />](https://alessandromastrofini.it/category/diy/)
 
 
 
