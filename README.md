@@ -39,3 +39,12 @@
 - [Tenere traccia delle proprie abitudini – Life tracking](https://alessandromastrofini.it/2021/09/18/tenere-traccia-delle-proprie-abitudini-life-tracking/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://alessandromastrofini.it)
+
+<br>
+
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+  
+  I am a Biomedical Engineer. 
+  
