@@ -25,5 +25,6 @@
 - [Da zero al tuo primo documento con LaTeχ](https://alessandromastrofini.it/2021/10/04/documento-latex/)
 - [Simulink, Raspberry Pi e modelli di volo](https://alessandromastrofini.it/2021/10/01/simulink-raspberry-modelli-volo-arduino/)
 - [Project Management: Healthcare Projects](https://alessandromastrofini.it/2021/09/19/project-management-healthcare-projects/)
+- [Tenere traccia delle proprie abitudini – Life tracking](https://alessandromastrofini.it/2021/09/18/tenere-traccia-delle-proprie-abitudini-life-tracking/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://alessandromastrofini.it)
