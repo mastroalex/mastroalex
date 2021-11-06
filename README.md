@@ -47,4 +47,4 @@
   <br/>
   
   I am a Biomedical Engineer. 
-  
+</details>  
