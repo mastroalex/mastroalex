@@ -11,6 +11,7 @@
 <br />
 
 ### 🛠 Tools:
+<br>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://alessandromastrofini.it/category/data-processing/)
 [<img align="left" alt="Arduino" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />](https://alessandromastrofini.it/category/arduino/)
@@ -27,7 +28,7 @@
 
 
 
-<br>
+<br><br>
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
