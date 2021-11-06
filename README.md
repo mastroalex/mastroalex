@@ -26,3 +26,4 @@
 - [Simulink, Raspberry Pi e modelli di volo](https://alessandromastrofini.it/2021/10/01/simulink-raspberry-modelli-volo-arduino/)
 - [Project Management: Healthcare Projects](https://alessandromastrofini.it/2021/09/19/project-management-healthcare-projects/)
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://alessandromastrofini.it)
