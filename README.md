@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Corso completo di Illustrator: da principiante ad esperto](https://alessandromastrofini.it/2021/11/26/illustrator-corso-completo/)
 - [Progettazione con Sensor Array Analyzer](https://alessandromastrofini.it/2021/11/10/array-esercitazione-matlab/)
 - [Un modello di crescita per i fondamentali](https://alessandromastrofini.it/2021/11/03/modello-crescita-sovraccarico-fondamentali/)
 - [L’importanza dell’allenamento della forza](https://alessandromastrofini.it/2021/10/07/forza-allenamento-resistance-training/)
 - [Da zero al tuo primo documento con LaTeχ](https://alessandromastrofini.it/2021/10/04/documento-latex/)
 - [Simulink, Raspberry Pi e modelli di volo](https://alessandromastrofini.it/2021/10/01/simulink-raspberry-modelli-volo-arduino/)
-- [Project Management: Healthcare Projects](https://alessandromastrofini.it/2021/09/19/project-management-healthcare-projects/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
