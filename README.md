@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Image processing volumetrico su osso trabecolare](https://alessandromastrofini.it/2021/11/27/image-volumetric-bone/)
 - [Corso completo di Illustrator: da principiante ad esperto](https://alessandromastrofini.it/2021/11/26/illustrator-corso-completo/)
 - [Progettazione con Sensor Array Analyzer](https://alessandromastrofini.it/2021/11/10/array-esercitazione-matlab/)
 - [Un modello di crescita per i fondamentali](https://alessandromastrofini.it/2021/11/03/modello-crescita-sovraccarico-fondamentali/)
 - [L’importanza dell’allenamento della forza](https://alessandromastrofini.it/2021/10/07/forza-allenamento-resistance-training/)
 - [Da zero al tuo primo documento con LaTeχ](https://alessandromastrofini.it/2021/10/04/documento-latex/)
-- [Simulink, Raspberry Pi e modelli di volo](https://alessandromastrofini.it/2021/10/01/simulink-raspberry-modelli-volo-arduino/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
