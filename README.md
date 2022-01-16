@@ -38,8 +38,8 @@
 - [Prototipazione di antenne](https://alessandromastrofini.it/2021/12/07/prototipazione-di-antenne/)
 - [Image processing volumetrico su osso trabecolare](https://alessandromastrofini.it/2021/11/27/image-volumetric-bone/)
 - [Corso completo di Illustrator: da principiante ad esperto](https://alessandromastrofini.it/2021/11/26/illustrator-corso-completo/)
+- [MoM ed equazioni elettriche integrodifferenziali](https://alessandromastrofini.it/2021/11/19/mom-efie/)
 - [Progettazione con Sensor Array Analyzer](https://alessandromastrofini.it/2021/11/10/array-esercitazione-matlab/)
-- [Un modello di crescita per i fondamentali](https://alessandromastrofini.it/2021/11/03/modello-crescita-sovraccarico-fondamentali/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
