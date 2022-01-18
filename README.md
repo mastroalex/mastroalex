@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning Onramp](https://alessandromastrofini.it/2022/01/18/deep-learning-matlab-onramp/)
 - [Progetto e analisi di un array di antenne folded patch con Matlab](https://alessandromastrofini.it/2022/01/16/design-array-folded-patch-matlab/)
 - [Modellazione computazionale automatizzata](https://alessandromastrofini.it/2021/12/08/fem-modellazione-computazionale-automatizzata-meccanica/)
 - [Prototipazione di antenne](https://alessandromastrofini.it/2021/12/07/prototipazione-di-antenne/)
 - [Image processing volumetrico su osso trabecolare](https://alessandromastrofini.it/2021/11/27/image-volumetric-bone/)
 - [Corso completo di Illustrator: da principiante ad esperto](https://alessandromastrofini.it/2021/11/26/illustrator-corso-completo/)
-- [MoM ed equazioni elettriche integrodifferenziali](https://alessandromastrofini.it/2021/11/19/mom-efie/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
