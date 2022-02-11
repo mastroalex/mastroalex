@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Prototipazione di un’antenna folded patch](https://alessandromastrofini.it/2022/02/04/patch-folded-prototype/)
-- [Deep Learning Onramp](https://alessandromastrofini.it/2022/01/18/deep-learning-matlab-onramp/)
-- [Progetto e analisi di un array di antenne folded patch con Matlab](https://alessandromastrofini.it/2022/01/16/design-array-folded-patch-matlab/)
-- [Modellazione computazionale automatizzata](https://alessandromastrofini.it/2021/12/08/fem-modellazione-computazionale-automatizzata-meccanica/)
-- [Prototipazione di antenne](https://alessandromastrofini.it/2021/12/07/prototipazione-di-antenne/)
-- [Image processing volumetrico su osso trabecolare](https://alessandromastrofini.it/2021/11/27/image-volumetric-bone/)
+- [Prototipazione di un’antenna folded patch](https://alessandromastrofini.it/patch-folded-prototype/)
+- [Deep Learning Onramp](https://alessandromastrofini.it/deep-learning-matlab-onramp/)
+- [Progetto e analisi di un array di antenne folded patch con Matlab](https://alessandromastrofini.it/design-array-folded-patch-matlab/)
+- [Modellazione computazionale automatizzata](https://alessandromastrofini.it/fem-modellazione-computazionale-automatizzata-meccanica/)
+- [Prototipazione di antenne](https://alessandromastrofini.it/prototipazione-di-antenne/)
+- [Image processing volumetrico su osso trabecolare](https://alessandromastrofini.it/image-volumetric-bone/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
