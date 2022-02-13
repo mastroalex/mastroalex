@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep learning e segmentazione per la biologia cellulare](https://alessandromastrofini.it/deep-learning-segmentazione/)
 - [Prototipazione di un’antenna folded patch](https://alessandromastrofini.it/patch-folded-prototype/)
 - [Deep Learning Onramp](https://alessandromastrofini.it/deep-learning-matlab-onramp/)
 - [Progetto e analisi di un array di antenne folded patch con Matlab](https://alessandromastrofini.it/design-array-folded-patch-matlab/)
 - [Modellazione computazionale automatizzata](https://alessandromastrofini.it/fem-modellazione-computazionale-automatizzata-meccanica/)
 - [Prototipazione di antenne](https://alessandromastrofini.it/prototipazione-di-antenne/)
-- [Image processing volumetrico su osso trabecolare](https://alessandromastrofini.it/image-volumetric-bone/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
