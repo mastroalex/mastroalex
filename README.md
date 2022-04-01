@@ -38,8 +38,8 @@
 - [Illustrazioni per le STEM](https://alessandromastrofini.it/2022/02/25/illustrazioni-stem/)
 - [Deep learning e segmentazione per la biologia cellulare](https://alessandromastrofini.it/2022/02/13/deep-learning-segmentazione/)
 - [Prototipazione di un’antenna folded patch](https://alessandromastrofini.it/2022/02/04/patch-folded-prototype/)
-- [Deep Learning Onramp](https://alessandromastrofini.it/2022/01/18/deep-learning-matlab-onramp/)
-- [Progetto e analisi di un array di antenne folded patch con Matlab](https://alessandromastrofini.it/2022/01/16/design-array-folded-patch-matlab/)
+- [Modelli computazionali multifisici e poroelasticità](https://alessandromastrofini.it/2022/01/30/poroelasticita-multifisica/)
+- [Modelli numerici elasto-plastici](https://alessandromastrofini.it/2022/01/30/modelli-numerici-elasto-plastici/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
