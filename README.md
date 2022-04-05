@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tassellatura di Voronoi e strutture lattiginose](https://alessandromastrofini.it/2022/04/05/tassellatura-di-voronoi-e-strutture-lattiginose/)
 - [Simulink Foundamentals](https://alessandromastrofini.it/2022/04/04/simulink-foundamentals/)
 - [Giroide e superfici di minimo al CAD](https://alessandromastrofini.it/2022/03/29/giroide-e-superfici-di-minimo-al-cad/)
 - [Illustrazioni per le STEM](https://alessandromastrofini.it/2022/02/25/illustrazioni-stem/)
 - [Deep learning e segmentazione per la biologia cellulare](https://alessandromastrofini.it/2022/02/13/deep-learning-segmentazione/)
 - [Prototipazione di un’antenna folded patch](https://alessandromastrofini.it/2022/02/04/patch-folded-prototype/)
-- [Modelli computazionali multifisici e poroelasticità](https://alessandromastrofini.it/2022/01/30/poroelasticita-multifisica/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
