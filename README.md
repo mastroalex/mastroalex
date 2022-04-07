@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tassellatura di Voronoi e strutture lattiginose](https://alessandromastrofini.it/2022/04/05/tassellatura-di-voronoi-e-strutture-lattiginose/)
-- [Simulink Foundamentals](https://alessandromastrofini.it/2022/04/04/simulink-foundamentals/)
-- [Giroide e superfici di minimo al CAD](https://alessandromastrofini.it/2022/03/29/giroide-e-superfici-di-minimo-al-cad/)
-- [Illustrazioni per le STEM](https://alessandromastrofini.it/2022/02/25/illustrazioni-stem/)
-- [Deep learning e segmentazione per la biologia cellulare](https://alessandromastrofini.it/2022/02/13/deep-learning-segmentazione/)
-- [Prototipazione di un’antenna folded patch](https://alessandromastrofini.it/2022/02/04/patch-folded-prototype/)
+- [Voronoi tassellation and lattice structures](https://alessandromastrofini.it/en/2022/04/05/voronoi-lattice/)
+- [Simulink Foundamentals](https://alessandromastrofini.it/en/2022/04/05/simulink-foundamentals-en/)
+- [Gyroid and minimal surfaces for CAD](https://alessandromastrofini.it/en/2022/03/29/gyroid-and-minimal-surfaces-for-cad/)
+- [Illustrations for the STEM](https://alessandromastrofini.it/en/2022/02/25/illustrations-for-the-stem/)
+- [Deep learning and segmentation in cell biology](https://alessandromastrofini.it/en/2022/02/13/deep-learning-biology/)
+- [Folded patch antenna prototyping](https://alessandromastrofini.it/en/2022/02/04/patch-folded-design-prototyping/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
