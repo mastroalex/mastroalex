@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mechanical characterization of gyroid lattice structure](https://alessandromastrofini.it/en/2022/04/12/gyroid-mechanics/)
 - [Voronoi tassellation and lattice structures](https://alessandromastrofini.it/en/2022/04/05/voronoi-lattice/)
 - [Simulink Foundamentals](https://alessandromastrofini.it/en/2022/04/05/simulink-foundamentals-en/)
 - [Gyroid and minimal surfaces for CAD](https://alessandromastrofini.it/en/2022/03/29/gyroid-and-minimal-surfaces-for-cad/)
 - [Illustrations for the STEM](https://alessandromastrofini.it/en/2022/02/25/illustrations-for-the-stem/)
 - [Deep learning and segmentation in cell biology](https://alessandromastrofini.it/en/2022/02/13/deep-learning-biology/)
-- [Folded patch antenna prototyping](https://alessandromastrofini.it/en/2022/02/04/patch-folded-design-prototyping/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
