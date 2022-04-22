@@ -34,7 +34,7 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Mechanical simulation of hip replacement implant](https://alessandromastrofini.it/en/2022/04/22/femur-mechanical/)
+- [Mechanical simulation of hip implant](https://alessandromastrofini.it/en/2022/04/22/femur-mechanical/)
 - [Mechanical characterization of gyroid lattice structure](https://alessandromastrofini.it/en/2022/04/12/gyroid-mechanics/)
 - [Voronoi tassellation and lattice structures](https://alessandromastrofini.it/en/2022/04/05/voronoi-lattice/)
 - [Simulink Foundamentals](https://alessandromastrofini.it/en/2022/04/05/simulink-foundamentals-en/)
