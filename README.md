@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Parametric optimization in prosthetic design](https://alessandromastrofini.it/en/2022/04/29/parametric-optimization-in-prosthetic-design/)
 - [Mechanical simulation of hip implant](https://alessandromastrofini.it/en/2022/04/22/femur-mechanical/)
 - [Mechanical characterization of gyroid lattice structure](https://alessandromastrofini.it/en/2022/04/12/gyroid-mechanics/)
 - [Voronoi tassellation and lattice structures](https://alessandromastrofini.it/en/2022/04/05/voronoi-lattice/)
 - [Simulink Foundamentals](https://alessandromastrofini.it/en/2022/04/05/simulink-foundamentals-en/)
 - [Gyroid and minimal surfaces for CAD](https://alessandromastrofini.it/en/2022/03/29/gyroid-and-minimal-surfaces-for-cad/)
-- [Illustrations for the STEM](https://alessandromastrofini.it/en/2022/02/25/illustrations-for-the-stem/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
