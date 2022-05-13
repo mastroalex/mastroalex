@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Excel Course: from Basic to Advanced Level](https://alessandromastrofini.it/en/2022/05/13/excle-course-udemy/)
 - [Topological optimization for prototyping](https://alessandromastrofini.it/en/2022/05/13/topological-optimization/)
+- [GrabCAD profile opening](https://alessandromastrofini.it/en/2022/04/30/grabcad-profile-opening/)
 - [Parametric optimization in prosthetic design](https://alessandromastrofini.it/en/2022/04/29/parametric-optimization-in-prosthetic-design/)
 - [Mechanical simulation of hip implant](https://alessandromastrofini.it/en/2022/04/22/femur-mechanical/)
 - [Mechanical characterization of gyroid lattice structure](https://alessandromastrofini.it/en/2022/04/12/gyroid-mechanics/)
-- [Voronoi tassellation and lattice structures](https://alessandromastrofini.it/en/2022/04/05/voronoi-lattice/)
-- [Simulink Foundamentals](https://alessandromastrofini.it/en/2022/04/05/simulink-foundamentals-en/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
