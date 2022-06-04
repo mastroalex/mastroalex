@@ -27,9 +27,6 @@
 [<img align="left" alt="DYI" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/3414677/power-drill-clipart-md.png" />](https://alessandromastrofini.it/category/diy/)
 
 
-
-
-
 <br><br>
 
 ### 📕  Latest Blog posts
