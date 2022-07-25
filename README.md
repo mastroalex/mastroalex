@@ -34,12 +34,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CFD analysis of ventilation inside an operating room](https://alessandromastrofini.it/en/2022/07/25/cfd-analysis-surgery-room/)
 - [Vento CFD: analysis in Wind Engineering](https://alessandromastrofini.it/en/2022/07/23/vento-cfd-analysis-in-wind-engineering/)
 - [Wolfram Mathematica Masterclass](https://alessandromastrofini.it/en/2022/07/16/mathematica-2/)
 - [RecurDyn and flexural hinges](https://alessandromastrofini.it/en/2022/06/11/recurdyn-and-flexural-hinges/)
 - [Pseudo-rigid model for a compliant mechanism](https://alessandromastrofini.it/en/2022/05/17/pseudo-rigid-model-for-a-compliant-mechanism/)
 - [Diffusion and FEA for drug-eluting spheres](https://alessandromastrofini.it/en/2022/05/14/diffusion-and-fea-for-drug-eluting-spheres/)
-- [Microsoft Excel Course: from Basic to Advanced Level](https://alessandromastrofini.it/en/2022/05/13/excle-course-udemy/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
