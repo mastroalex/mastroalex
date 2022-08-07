@@ -36,10 +36,10 @@
 <!-- BLOG-POST-LIST:START -->
 - [CFD analysis of ventilation inside an operating room](https://alessandromastrofini.it/en/2022/07/25/cfd-analysis-surgery-room/)
 - [Wolfram Mathematica Masterclass](https://alessandromastrofini.it/en/2022/07/16/mathematica-2/)
+- [Aneurysm and biomechanics of vessels](https://alessandromastrofini.it/en/2022/06/21/aneurysm-biomechanics/)
 - [RecurDyn and flexural hinges](https://alessandromastrofini.it/en/2022/06/11/recurdyn-and-flexural-hinges/)
+- [Microrheometer and viscoelastic properties of cells](https://alessandromastrofini.it/en/2022/05/31/microrheometer-magnetic-bead/)
 - [Impedance cytometer and circuit equivalent](https://alessandromastrofini.it/en/2022/05/22/cytometer-circuit-equivalent/)
-- [Pseudo-rigid model for a compliant mechanism](https://alessandromastrofini.it/en/2022/05/17/pseudo-rigid-model-for-a-compliant-mechanism/)
-- [Vento CFD: analysis in Wind Engineering](https://alessandromastrofini.it/en/2022/05/15/vento-cfd-analysis-in-wind-engineering/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
