@@ -17,6 +17,8 @@
 [<img align="left" alt="Arduino" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />](https://alessandromastrofini.it/category/arduino/)
 [<img align="left" alt="Solidworks" width="26px" src="https://www.solidengineering.it/wp-content/uploads/2020/03/logo-solidworks-03-05-05-300x295.png" />](https://alessandromastrofini.it/category/cad/)
 [<img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />](https://alessandromastrofini.it/category/matlab/)
+[<img align="left" alt="Simulink" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" />](https://alessandromastrofini.it/category/matlab/)
+[<img align="left" alt="Comsol" width="26px" src="https://www.file-extensions.org/imgs/app-icon/128/5933/comsol-multiphysics-icon.png" />](https://alessandromastrofini.it/)
 [<img align="left" alt="Mathematica" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/1965px-Mathematica_Logo.svg.png" />](https://alessandromastrofini.it/category/matlab/)
 [<img align="left" alt="AceFem" width="30px" src="https://user-images.githubusercontent.com/76497903/171990600-971814b6-f787-4541-8a59-0b0472b4810b.png" />](https://alessandromastrofini.it/category/matlab/)
 [<img align="left" alt="Notion" width="26px" src="https://www.marcobalzerani.it/wp-content/uploads/2020/12/notion-logo-no-background.png" />](https://alessandromastrofini.it/category/notion/)
