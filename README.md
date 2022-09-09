@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Biomechanics Summer School](https://alessandromastrofini.it/en/2022/09/09/biomechanics-summer-school/)
 - [Trainee at KTH Royal Institute of Technology](https://alessandromastrofini.it/en/2022/09/01/kth/)
 - [Master Swedish in 300 Lessons](https://alessandromastrofini.it/en/2022/08/28/swedish-basic-course/)
 - [CFD analysis of ventilation inside an operating room](https://alessandromastrofini.it/en/2022/07/25/cfd-analysis-surgery-room/)
 - [Wolfram Mathematica Masterclass](https://alessandromastrofini.it/en/2022/07/16/mathematica-2/)
 - [I started learning Swedish](https://alessandromastrofini.it/en/2022/07/05/swedish/)
-- [Aneurysm and biomechanics of vessels](https://alessandromastrofini.it/en/2022/06/21/aneurysm-biomechanics/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
