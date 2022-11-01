@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pimp my Obsidian](https://alessandromastrofini.it/en/2022/10/27/pimp-obsidian-setup/)
 - [Visitor to the soft tissue mechanics lab](https://alessandromastrofini.it/en/2022/10/03/visitor-soft-tissue-mechanics-lab/)
 - [Why I use Obsidian](https://alessandromastrofini.it/en/2022/09/21/why-use-obsidian/)
 - [Biomechanics Summer School](https://alessandromastrofini.it/en/2022/09/09/biomechanics-summer-school/)
 - [Trainee at KTH Royal Institute of Technology](https://alessandromastrofini.it/en/2022/09/01/kth/)
 - [Master Swedish in 300 Lessons](https://alessandromastrofini.it/en/2022/08/28/swedish-basic-course/)
-- [CFD analysis of ventilation inside an operating room](https://alessandromastrofini.it/en/2022/07/25/cfd-analysis-surgery-room/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
