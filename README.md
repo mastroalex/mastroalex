@@ -36,7 +36,7 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pimp my Obsidian](https://alessandromastrofini.it/en/2022/10/27/pimp-obsidian-setup/)
+- [Pimp my Obsidian](https://alessandromastrofini.it/en/2022/11/01/pimp-obsidian-setup/)
 - [Visitor to the soft tissue mechanics lab](https://alessandromastrofini.it/en/2022/10/03/visitor-soft-tissue-mechanics-lab/)
 - [Why I use Obsidian](https://alessandromastrofini.it/en/2022/09/21/why-use-obsidian/)
 - [Biomechanics Summer School](https://alessandromastrofini.it/en/2022/09/09/biomechanics-summer-school/)
