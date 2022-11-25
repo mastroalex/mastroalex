@@ -37,11 +37,11 @@
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Conversational Swedish](https://alessandromastrofini.it/en/2022/11/05/swedish-udemy/)
+- [Diary of a thesis abroad – Part II](https://alessandromastrofini.it/en/2022/11/03/diary-thesis-abroad-october/)
 - [Pimp my Obsidian](https://alessandromastrofini.it/en/2022/11/01/pimp-obsidian-setup/)
 - [Visitor to the soft tissue mechanics lab](https://alessandromastrofini.it/en/2022/10/03/visitor-soft-tissue-mechanics-lab/)
 - [Diary of a thesis abroad – Part I](https://alessandromastrofini.it/en/2022/10/01/thesis-abroad-september/)
 - [Why I use Obsidian](https://alessandromastrofini.it/en/2022/09/21/why-use-obsidian/)
-- [Biomechanics Summer School](https://alessandromastrofini.it/en/2022/09/09/biomechanics-summer-school/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
