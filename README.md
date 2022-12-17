@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bioengineering Application  Developer at Wolfram](https://alessandromastrofini.it/en/2022/12/10/bioengineering-application-developer-wolfram/)
 - [Google Sheets and Obsidian integration](https://alessandromastrofini.it/en/2022/12/05/google-sheets-obsidian-integration/)
 - [Diary of a thesis abroad – Part III](https://alessandromastrofini.it/en/2022/12/01/diary-thesis-abroad-november/)
 - [CS50 – Computer science and the art of programming](https://alessandromastrofini.it/en/2022/11/26/cs50-course/)
 - [Conversational Swedish](https://alessandromastrofini.it/en/2022/11/05/swedish-udemy/)
 - [Diary of a thesis abroad – Part II](https://alessandromastrofini.it/en/2022/11/03/diary-thesis-abroad-october/)
-- [Pimp my Obsidian](https://alessandromastrofini.it/en/2022/11/01/pimp-obsidian-setup/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
