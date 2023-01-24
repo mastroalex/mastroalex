@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rectifier for motorcycle LED turn indicators](https://alessandromastrofini.it/en/2023/01/24/rectifier-motrcycle-turn-indicators/)
 - [Diary of a thesis abroad – Part IV](https://alessandromastrofini.it/en/2022/12/23/diary-thesis-abroad-december/)
 - [Bioengineering Application  Developer at Wolfram](https://alessandromastrofini.it/en/2022/12/10/bioengineering-application-developer-wolfram/)
 - [Google Sheets and Obsidian integration](https://alessandromastrofini.it/en/2022/12/05/google-sheets-obsidian-integration/)
 - [Diary of a thesis abroad – Part III](https://alessandromastrofini.it/en/2022/12/01/diary-thesis-abroad-november/)
 - [CS50 – Computer science and the art of programming](https://alessandromastrofini.it/en/2022/11/26/cs50-course/)
-- [Conversational Swedish](https://alessandromastrofini.it/en/2022/11/05/swedish-udemy/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
