@@ -1,7 +1,7 @@
 # The impact of residual strains on the stress analysis of atherosclerotic carotid vessels predictions based on the homogenous stress hypothesis
 ## Master Thesis
 
-![Thesis](https://alessandromastrofini.it/wp-content/uploads/2023/02/tesi_banner.png)
+![Thesis](https://alessandromastrofini.it/wp-content/uploads/2023/02/tesi_banner-e1680020355326.png)
 
 ### Biomedical Engineering - University of Rome Tor Vergata
 
