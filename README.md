@@ -36,7 +36,7 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Home lab network](https://alessandromastrofini.it/2023/03/01/home-lab-network/)
+- [Network home lab](https://alessandromastrofini.it/2023/03/01/home-lab-network/)
 - [It’s time to switch mechanical](https://alessandromastrofini.it/2023/02/16/its-time-to-switch-mechanical/)
 - [Rectifier for motorcycle LED turn indicators](https://alessandromastrofini.it/2023/01/24/rectifier-motrcycle-turn-indicators/)
 - [Diary of a thesis abroad – Part IV](https://alessandromastrofini.it/2022/12/23/diary-thesis-abroad-december/)
