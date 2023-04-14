@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diary of a thesis abroad – Final](https://alessandromastrofini.it/2023/04/14/diary-of-a-thesis-abroad-final/)
 - [Network home lab](https://alessandromastrofini.it/2023/03/01/home-lab-network/)
 - [It’s time to switch mechanical](https://alessandromastrofini.it/2023/02/16/its-time-to-switch-mechanical/)
 - [Rectifier for motorcycle LED turn indicators](https://alessandromastrofini.it/2023/01/24/rectifier-motrcycle-turn-indicators/)
 - [Diary of a thesis abroad – Part IV](https://alessandromastrofini.it/2022/12/23/diary-thesis-abroad-december/)
 - [Bioengineering Application  Developer at Wolfram](https://alessandromastrofini.it/2022/12/10/bioengineering-application-developer-wolfram/)
-- [Google Sheets and Obsidian integration](https://alessandromastrofini.it/2022/12/05/google-sheets-obsidian-integration/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
