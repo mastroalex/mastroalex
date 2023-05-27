@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart home update: Home Assistant](https://alessandromastrofini.it/2023/05/27/smart-home-update-home-assistant/)
 - [Read a Triac controller for IoT](https://alessandromastrofini.it/2023/05/13/read-a-triac-controller-for-iot/)
 - [Docker in home network](https://alessandromastrofini.it/2023/05/05/docker-in-home-network/)
 - [3D computer graphics in biomedical engineering](https://alessandromastrofini.it/2023/04/28/computer-graphics-biomedical-engineering/)
 - [Diary of a thesis abroad – Final](https://alessandromastrofini.it/2023/04/14/diary-of-a-thesis-abroad-final/)
 - [Network home lab](https://alessandromastrofini.it/2023/03/01/home-lab-network/)
-- [It’s time to switch mechanical](https://alessandromastrofini.it/2023/02/16/its-time-to-switch-mechanical/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
