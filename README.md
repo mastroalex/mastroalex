@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [On the thermo-fluid-dynamics of small thermal systems](https://alessandromastrofini.it/2023/06/13/on-the-thermo-fluid-dynamics-of-small-thermal-systems/)
 - [Let’s discover additive manufacturing](https://alessandromastrofini.it/2023/05/27/lets-discover-additive-manufacturing/)
 - [Smart home update: Home Assistant](https://alessandromastrofini.it/2023/05/27/smart-home-update-home-assistant/)
 - [Read a Triac controller for IoT](https://alessandromastrofini.it/2023/05/13/read-a-triac-controller-for-iot/)
 - [Docker in home network](https://alessandromastrofini.it/2023/05/05/docker-in-home-network/)
 - [3D computer graphics in biomedical engineering](https://alessandromastrofini.it/2023/04/28/computer-graphics-biomedical-engineering/)
-- [Diary of a thesis abroad – Final](https://alessandromastrofini.it/2023/04/14/diary-of-a-thesis-abroad-final/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
