@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you should buy a Reflex](https://alessandromastrofini.it/2024/05/01/why-you-should-buy-a-reflex/)
 - [Heating control system](https://alessandromastrofini.it/2024/03/25/heating-control-system/)
 - [I published my first scientific paper](https://alessandromastrofini.it/2024/02/20/i-published-my-first-scientific-paper/)
 - [A final design for the temperature sensors](https://alessandromastrofini.it/2024/01/05/temperature-sensor-final-form/)
 - [Scientific animation with Blender](https://alessandromastrofini.it/2023/12/18/scientific-animation-with-blender/)
 - [I have been selected for the ESB-ITA Master Thesis Award](https://alessandromastrofini.it/2023/09/16/esb-ita-master-thesis-award-biomechanics/)
-- [On the thermo-fluid-dynamics of small thermal systems](https://alessandromastrofini.it/2023/06/13/on-the-thermo-fluid-dynamics-of-small-thermal-systems/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
