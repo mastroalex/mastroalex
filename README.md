@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mechanics, models, and cobblestones: my Lisbon adventure at ECCOMAS 2024](https://alessandromastrofini.it/2024/06/07/mechanics-models-and-cobblestones-my-lisbon-adventure-at-eccomas-2024/)
 - [Nonlinear computational solid &amp; structural mechanics](https://alessandromastrofini.it/2024/05/10/nonlinear-computational-solid-structural-mechanics/)
 - [Why you should buy a Reflex](https://alessandromastrofini.it/2024/05/01/why-you-should-buy-a-reflex/)
 - [Heating control system](https://alessandromastrofini.it/2024/03/25/heating-control-system/)
 - [I published my first scientific paper](https://alessandromastrofini.it/2024/02/20/i-published-my-first-scientific-paper/)
 - [A final design for the temperature sensors](https://alessandromastrofini.it/2024/01/05/temperature-sensor-final-form/)
-- [Scientific animation with Blender](https://alessandromastrofini.it/2023/12/18/scientific-animation-with-blender/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
