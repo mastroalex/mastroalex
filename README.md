@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fireplace. Is it worth it?](https://alessandromastrofini.it/2024/08/10/fireplace-is-it-worth-it/)
 - [Exploring innovations in biomechanics: ESB 2024 congress in Edinburgh](https://alessandromastrofini.it/2024/07/03/esb-2024-biomechanics/)
 - [Shooting beyond Earth’s atmosphere](https://alessandromastrofini.it/2024/06/24/shooting-beyond-earths-atmosphere/)
 - [Mechanics, models, and cobblestones: Lisbon ECCOMAS 2024](https://alessandromastrofini.it/2024/06/07/mechanics-models-cobblestones-lisbon-eccomas-2024/)
 - [Nonlinear computational solid &amp; structural mechanics](https://alessandromastrofini.it/2024/05/10/nonlinear-computational-solid-structural-mechanics/)
 - [Why you should buy a Reflex](https://alessandromastrofini.it/2024/05/01/why-you-should-buy-a-reflex/)
-- [Heating control system](https://alessandromastrofini.it/2024/03/25/heating-control-system/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
