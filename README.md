@@ -36,12 +36,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wolfram Virtual Technology Conference](https://alessandromastrofini.it/2024/11/04/wolfram-virtual-technology-conference/)
 - [ESB-ITA in Pescara](https://alessandromastrofini.it/2024/10/05/esb-ita-in-pescara/)
 - [Industrial IoT application](https://alessandromastrofini.it/2024/08/12/industrial-iot-application/)
 - [Fireplace. Is it worth it?](https://alessandromastrofini.it/2024/08/10/fireplace-is-it-worth-it/)
 - [Exploring innovations in biomechanics: ESB 2024 congress in Edinburgh](https://alessandromastrofini.it/2024/07/03/esb-2024-biomechanics/)
 - [Shooting beyond Earth’s atmosphere](https://alessandromastrofini.it/2024/06/24/shooting-beyond-earths-atmosphere/)
-- [Mechanics, models, and cobblestones: Lisbon ECCOMAS 2024](https://alessandromastrofini.it/2024/06/07/mechanics-models-cobblestones-lisbon-eccomas-2024/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
