@@ -36,7 +36,7 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A real-world application of computational design and  3D printing](https://alessandromastrofini.it/2025/03/30/a-real-world-application-of-computational-design-and-3d-printing/)
+- [A real-world application of computational design and  3D printing](https://alessandromastrofini.it/2025/03/30/real-world-application-computational-design-3d-printing/)
 - [Going crazy with network storage](https://alessandromastrofini.it/2024/12/15/going-crazy-with-network-drives-storage/)
 - [Wolfram Virtual Technology Conference](https://alessandromastrofini.it/2024/11/04/wolfram-virtual-technology-conference/)
 - [ESB-ITA in Pescara](https://alessandromastrofini.it/2024/10/05/esb-ita-in-pescara/)
