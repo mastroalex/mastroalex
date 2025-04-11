@@ -8,6 +8,7 @@
 [<img align="left" alt="alessandromastrofini.it | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/alessandro_mstr)
 [<img align="left" alt="alessandromastrofini.it | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alessandro-mastrofini/)
 
+<br>
 
 ### 🛠 Tools:
 
