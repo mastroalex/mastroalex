@@ -16,12 +16,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Congresses closed summer](https://alessandromastrofini.it/2025/09/21/congresses-closed-summer/)
 - [Remote IoT controller: from electrical design to production](https://alessandromastrofini.it/2025/07/19/electrical-design-for-remote-iot-controller/)
 - [Feed the model, where theory comes alive](https://alessandromastrofini.it/2025/04/05/feed-the-model-where-theory-comes-alive/)
 - [A real-world application of computational design and  3D printing](https://alessandromastrofini.it/2025/03/30/real-world-application-computational-design-3d-printing/)
 - [Going crazy with network storage](https://alessandromastrofini.it/2024/12/15/going-crazy-with-network-drives-storage/)
 - [Wolfram Virtual Technology Conference](https://alessandromastrofini.it/2024/11/04/wolfram-virtual-technology-conference/)
-- [ESB-ITA in Pescara](https://alessandromastrofini.it/2024/10/05/esb-ita-in-pescara/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
