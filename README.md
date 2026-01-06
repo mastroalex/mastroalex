@@ -16,12 +16,12 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving to Rotterdam](https://alessandromastrofini.it/2025/10/30/moving-to-rotterdam/)
 - [In-silico medicine and tendon biomechanics](https://alessandromastrofini.it/2025/10/05/in-silico-medicine-and-tendon-biomechanics/)
 - [Extending the cohort and improving the G&amp;R](https://alessandromastrofini.it/2025/10/03/extending-the-cohort-and-improving-the-gr/)
 - [Congresses closed the summer](https://alessandromastrofini.it/2025/09/21/congresses-closed-summer/)
 - [Remote IoT controller: from electrical design to production](https://alessandromastrofini.it/2025/07/19/electrical-design-for-remote-iot-controller/)
 - [Feed the model, where theory comes alive](https://alessandromastrofini.it/2025/04/05/feed-the-model-where-theory-comes-alive/)
-- [A real-world application of computational design and  3D printing](https://alessandromastrofini.it/2025/03/30/real-world-application-computational-design-3d-printing/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [read more...](https://alessandromastrofini.it)
 
